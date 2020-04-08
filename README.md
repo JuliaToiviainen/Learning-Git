@@ -1,2 +1,2 @@
-# Learning-Git https://github.com/<username>/Learning-Git
+# Learning-Git https://github.com/<JuliaToiviainen>/Learning-Git
 My first git
