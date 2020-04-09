@@ -1,2 +1,2 @@
-# Learning-Git https://github.com/JuliaToiviainen/Learning-Git
+# Learning-Git
 My first git
