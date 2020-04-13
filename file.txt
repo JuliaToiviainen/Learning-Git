@@ -1,1 +1,3 @@
-Test line of how this works. Wow, cool this might actually work.
+Test line of how this works.
+Wow, cool this might actually work.
+Nice this is working.
